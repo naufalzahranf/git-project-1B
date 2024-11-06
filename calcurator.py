@@ -1,4 +1,5 @@
 a = 2
 b = 3
-penjumlahan = a+b
+c = 4
+penjumlahan = a+b+c
 print (penjumlahan)
